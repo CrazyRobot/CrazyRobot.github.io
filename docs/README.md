@@ -18,5 +18,5 @@ config:
         -
           theme: alt
           text: Github →
-          link: https://crazyrobot.github.io/
+          link: https://github.com/CrazyRobot
 ---
