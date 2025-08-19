@@ -41,5 +41,5 @@ const demoNote = defineNoteConfig({
 export default defineNotesConfig({
   dir: 'notes',
   link: '/',
-  notes: [demoNote],
+  notes: [{ dir: '系列1', link: '/notes/系列1' }, { dir: '系列2', link: '/notes/系列2' }],
 })
