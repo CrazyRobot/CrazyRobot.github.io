@@ -9,6 +9,4 @@ permalink: /article/fxjhzvs9/
 
 ## 测试
 
-<CustomComponent />
-
 
