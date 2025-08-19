@@ -50,7 +50,7 @@ export default defineThemeConfig({
    */
   profile: {
     avatar: 'https://theme-plume.vuejs.press/plume.png',
-    name: 'My Blogs',
+    name: 'My Vuepress Site',
     description: '',
     // circle: true,
     // location: '',
