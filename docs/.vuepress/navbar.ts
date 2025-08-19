@@ -13,6 +13,6 @@ export default defineNavbarConfig([
   { text: '归档', link: '/blog/archives/' },
   {
     text: '笔记',
-    items: [{ text: '示例', link: '/notes/demo' }]
+    items: [{ text: '系列1', link: '/notes/系列1' }, { text: '系列2', link: '/notes/系列2' }],
   },
 ])
