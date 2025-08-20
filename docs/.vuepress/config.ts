@@ -56,6 +56,16 @@ export default defineUserConfig({
     //   pagination: 15, // 每页显示文章数量
     // },
 
+    blog: {
+      postCover: {
+        layout: 'left', // 文章封面位置
+        ratio: '16:9', // 文章封面宽高比
+        width: 300, // 文章封面宽度
+        compact: true, // 是否启用紧凑模式
+      }
+
+    },
+
     /* 博客文章页面链接前缀 */
     article: '/article/',
 
