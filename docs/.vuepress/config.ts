@@ -42,10 +42,6 @@ export default defineUserConfig({
     contributors: false,
     // changelog: false,
 
-    profile: {
-      description: 'My Blogs',
-    },
-
     /**
      * 博客
      * @see https://theme-plume.vuejs.press/config/basic/#blog
